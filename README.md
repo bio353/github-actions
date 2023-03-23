@@ -1,6 +1,6 @@
 # Exercício TDD - Calculadora
 
-[![Calculator App](https://github.com/bio353/exercicio-github-actions/actions/workflows/python-app.yml/badge.svg)](https://github.com/bio353/exercicio-github-actions/actions/workflows/python-app.yml)
+[![Calculator App](https://github.com/bio353/github-actions/actions/workflows/python-app.yml/badge.svg)](https://github.com/bio353/github-actions/actions/workflows/python-app.yml)
 
 ## Explicação da Atividade
 
